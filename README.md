@@ -12,7 +12,7 @@ To build this project you need access to a 3d printer. The model folder contains
 * Connection wire
 
 ### Print
-The models can be downloaded from my Printables [here](https://www.printables.com/social/306904-dmytro-panin/models).
+The 3d models can be downloaded from my Printables [here](https://www.printables.com/social/306904-dmytro-panin/models).
 
 ### Assembly
 1. Populate the slot of the _bob_middle_ printed part with an MX-type keyboard switch.
@@ -58,7 +58,7 @@ At the moment there are 3 types of commands supported:
 ```
 
 ### Additional information
-This project has uses a modified version of my other project [pico-mpad]("https://github.com/dr-mod/pico-mpad") you can find more configuration examples and information there. 
+This project has uses a modified version of my other project [pico-mpad](https://github.com/dr-mod/pico-mpad) you can find more configuration examples and information there. 
 
 ### Support the project
 If you would like to support what I do and keep me caffeinated, you can do it here:
